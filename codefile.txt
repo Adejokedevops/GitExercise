@@ -1,4 +1,0 @@
-busyqa coop programme
-this task helps you understand github
-developer writes codes to github and devops merges branches
-
